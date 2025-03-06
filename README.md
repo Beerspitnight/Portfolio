@@ -1,2 +1,1 @@
-This repository houses my portfolio.
-Instructional Design
+Welcome to my Portfolio repository! Here you'll find a curated selection of projects showcasing my 20 years of experience in educational leadership, innovative curriculum design, and tech-driven instructional strategies. Explore my work in digital learning, data-driven education, and transformative teaching practices.
